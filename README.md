@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Indian-Avinash
-- 👀 I’m interested in IOT,Building AI/ML models,NLP and Computer Vision
-- 🌱 I’m currently 
+- 👀 I’m interested in IOT,Building AI/ML models,NLP and Computer Vision.
+- 🌱 I’m currently solving issues building IOT Projects ,Building AI/ML Models.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach on to me on budigeavinash382@gmail.com
 
